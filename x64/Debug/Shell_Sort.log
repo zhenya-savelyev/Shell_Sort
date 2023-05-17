@@ -1,0 +1,3 @@
+﻿  Shell_Sort.cpp
+C:\Other things\БГУИР\1 курс\ОАИП\Курсовая\Shell_Sort\Shell_Sort.cpp(6,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Shell_Sort.vcxproj -> C:\Other things\БГУИР\1 курс\ОАИП\Курсовая\Shell_Sort\x64\Debug\Shell_Sort.exe
